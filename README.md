@@ -1,6 +1,7 @@
 ## Project Display:
 
 Hosted Website:
+https://gurjeetohri.github.io/kanban/
 https://9d8gkg-3000.csb.app/
 
 Display state: 
